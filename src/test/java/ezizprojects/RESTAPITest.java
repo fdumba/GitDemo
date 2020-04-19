@@ -14,6 +14,9 @@ public class RESTAPITest {
 		System.out.println("Making Changes from Another Directory");
 		System.out.println("Hope this works");
 		
+		System.out.println("This works like a charm");
+		System.out.println("");
+		
 	}
 
 	@Test

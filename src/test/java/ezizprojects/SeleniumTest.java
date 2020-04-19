@@ -12,5 +12,6 @@ public class SeleniumTest {
 	@Test
 	public void ElementsUI() {
 		System.out.println("ElementsUI");
+		System.out.println("Making changes in another class file");
 	}
 }
