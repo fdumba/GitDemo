@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+      <class name="ezizprojects.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:ezizprojects.SeleniumTest@4f063c0a]" name="BrowserAutomation" duration-ms="1" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:ezizprojects.SeleniumTest@4f063c0a]" name="ElementsUI" duration-ms="1" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- ezizprojects.SeleniumTest -->
+      <class name="ezizprojects.MobileTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:ezizprojects.MobileTest@2a17b7b6]" name="IOSApps" duration-ms="7" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:ezizprojects.MobileTest@2a17b7b6]" name="NativeAppAndroid" duration-ms="1" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- ezizprojects.MobileTest -->
+      <class name="ezizprojects.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:ezizprojects.RESTAPITest@1e6d1014]" name="deleteTwitter" duration-ms="0" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:ezizprojects.RESTAPITest@1e6d1014]" name="postJira" duration-ms="1" started-at="2020-03-26T17:31:27 EDT" finished-at="2020-03-26T17:31:27 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- ezizprojects.RESTAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
